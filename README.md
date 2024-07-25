@@ -1,1 +1,2 @@
 # DESIGN-OF-VEHICULAR-ACCESS-CONTROL-RFID--POWERED-SMART-ENGINE-AUTHORIZATION-SYSTEM-
+Introducing an advanced RFID license scanner for smart vehicles, powered by Arduino Nano. This system quickly checks licenses and either approves or denies engine activation based on authorized credentials. By using RFID technology and Arduino Nano, it ensures only approved drivers can start the engine, boosting vehicle security and control.
